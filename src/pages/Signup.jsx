@@ -163,7 +163,7 @@ const Signup = () => {
               {hasSpecialChar ? (
                 <span className="text-success">
                   <CheckCircleIcon className="mr-1" fontSize="small" />
-                  <small>one special symbol</small>
+                  <small>one special symbol.</small>
                 </span>
               ) : (
                 <span className="text-danger">
