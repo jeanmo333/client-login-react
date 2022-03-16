@@ -168,7 +168,7 @@ const Signup = () => {
               ) : (
                 <span className="text-danger">
                   <CancelIcon className="mr-1" fontSize="small" />
-                  <small>one special symbol.</small>
+                  <small>one special symbol</small>
                 </span>
               )}
             </div>
